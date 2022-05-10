@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/BoltzExchange/boltz-frontend.svg?branch=master)](https://travis-ci.org/BoltzExchange/boltz-frontend)
 
 [![Build Status](https://app.travis-ci.com/PorticoExchange/PorticoExchangefrontend.svg?branch=master)](https://app.travis-ci.com/PorticoExchange/PorticoExchangefrontend)
-Frontend for Portico Exchange. 
 
 # Requiriments 
 
