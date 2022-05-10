@@ -81,7 +81,7 @@ export const toSatoshi = coins => {
  * Get the full name of a symbol
  */
 export const getCurrencyName = symbol => {
-  return symbol === 'BTC' ? 'Bitcoin' : 'Litecoin';
+  return symbol === 'BTC' ? 'Bitcoin' : 'Litecoin': 'Liquid Bitcoin': 'RBTC' : 'USDT'
 };
 
 /**
