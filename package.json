@@ -1,5 +1,5 @@
 {
-  "name": "porticoexchange-frontend",
+  "name": "boltz-frontend",
   "version": "1.2.0-beta",
   "scripts": {
     "start": "BROWSER=none react-scripts start",
